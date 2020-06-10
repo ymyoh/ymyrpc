@@ -1,0 +1,1 @@
+node ymyservice.js durdur
