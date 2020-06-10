@@ -4,8 +4,7 @@ Profilinizde tatlı bir RPC görmek ve bize destek olmak istiyorsanız:
 
 1. Repo'yu indirin ve masaüstüne atın
 2. **rpc.js** dosyasının bulunduğu klasörde *komut istemcisi*ni açın
-3. **npm install discord-rpc** yazın ve ENTER tuşuna basın
-4. Gerekli dependency'ler yüklendikten sonra **node rpc.js** yazarak başlatabilirsiniz
+4. **node rpc.js** yazarak RPC'yi başlatın
 
 # Eğer RPC çalışmıyorsa
 RPC gelmediyse veya TIMEOUT hatası veriyorsa aşağıdaki linkten uygulamaya izin vermeyi deneyin.
