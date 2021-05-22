@@ -1,4 +1,4 @@
-# YMY RPC Eklentisi
+# ymyrpc
 
 Profilinizde tatlı bir RPC göster ve bize destek ol..
 
